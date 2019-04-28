@@ -1,0 +1,38 @@
+.input-group.md-form.form-sm.form-1 input {
+    border: 1px solid #bdbdbd;
+    border-top-left-radius: 0.25rem;
+    border-bottom-left-radius: 0.25rem;
+    background-color: white;
+    height:30px;
+
+}
+
+#basic-text1{
+    border: none;
+    border-top-right-radius: 0.25rem;
+    border-bottom-right-radius: 0.25rem;
+    margin-left: -1px;
+}
+
+#search-selector{
+    height: 40px;
+    width: 100px !important;
+    background-color: white;
+    border-left: none;
+    color:#495057;
+}
+
+.address_hover:hover{
+  text-decoration: underline;
+}
+
+.votes{
+    background-color: transparent;
+    box-shadow: none;
+    border:none;
+    margin-left:-5px;
+}
+
+.votes:hover{
+    cursor: pointer;
+}
